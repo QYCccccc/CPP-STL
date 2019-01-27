@@ -7,7 +7,6 @@
 using namespace std;
 class Student 
 {
-    /* data */
 public:
     char name[20];
     int id;
